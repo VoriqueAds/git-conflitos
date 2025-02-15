@@ -1,0 +1,9 @@
+Lista de tarefas:
+
+    1 - Estudar Java
+    2 - Estudar Git
+    3 - Estudar Angular
+    4 - Ir para academia
+    5 - Estudar Sistemas da Informação (Faculdade)
+    6 - Tomar banho
+
